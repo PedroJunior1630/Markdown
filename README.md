@@ -10,4 +10,4 @@
 - [ ] Comandos isolados
 - [ ] Tabelas
 ---
-**Slides utilizados do [Curso de Github](https://github.com/gustavoguanabara/git-github) do [gustavo gunabara](https://github.com/gustavoguanabara) do [cursoemvideo](cursoemvideo.com)**
+**Slides utilizados do [Curso de Github](https://github.com/gustavoguanabara/git-github) do [gustavo gunabara](https://github.com/gustavoguanabara) do [cursoemvideo](https://www.cursoemvideo.com)**
